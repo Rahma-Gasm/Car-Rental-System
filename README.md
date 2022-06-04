@@ -16,19 +16,23 @@ Java, Multithreading, I/O Stream, Database, Exception, GUI.
 - Home Page 
 <img width="203" alt="image" src="https://user-images.githubusercontent.com/58330569/172013757-4ac9df63-0957-4249-a654-232e9df0e05b.png">
 
-- Print supervisor list 
-<img width="1048" alt="Screen Shot 2021-07-17 at 1 50 23 PM" src="https://user-images.githubusercontent.com/58330569/126034592-e5ec884e-1000-4def-a315-0cc4847b8bd3.png">
+- Login Page  
+<img width="228" alt="image" src="https://user-images.githubusercontent.com/58330569/172014009-2b489d03-29b6-49fd-b0fa-00f2262e2252.png">
 
-- Print student list  
-<img width="1155" alt="Screen Shot 2021-07-17 at 1 52 00 PM" src="https://user-images.githubusercontent.com/58330569/126034628-4ddd381a-2845-4425-9617-5c622104f5c4.png">
+- Register
+<img width="239" alt="image" src="https://user-images.githubusercontent.com/58330569/172013908-3a4b24bb-441b-492e-82e1-104b7ea30479.png">
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/58330569/172013921-9e452799-fac5-4c96-ae41-2794a3053f96.png">
 
-- Remove student  
-<img width="1345" alt="Screen Shot 2021-07-17 at 2 20 50 PM" src="https://user-images.githubusercontent.com/58330569/126035234-f0b0149b-9ff7-42c9-a6eb-8e16fe81ab3c.png">
+- Choose the car type
+<img width="235" alt="image" src="https://user-images.githubusercontent.com/58330569/172013813-9134171a-ccc3-4745-953e-5a31f25ea4e1.png">
+<img width="234" alt="image" src="https://user-images.githubusercontent.com/58330569/172013842-6c964493-b03c-4148-a19b-09e4fbe4c5ad.png">
 
-- EXIT from program
-<img width="1025" alt="Screen Shot 2021-07-17 at 2 43 37 PM" src="https://user-images.githubusercontent.com/58330569/126035776-52e282d9-0e47-49a0-a42a-97cfd45dac81.png">
+- Online chatting with customer service
+<img width="197" alt="image" src="https://user-images.githubusercontent.com/58330569/172014045-032e8b07-f78c-4a2b-a961-62ed22e411a3.png">
+<img width="199" alt="image" src="https://user-images.githubusercontent.com/58330569/172014063-93894472-fb8b-48e6-9a5c-07bd1e46ec22.png">
+
 
 ## Installation 
-Step 1: Download Netbeans app from here https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html                            
+Step 1: Download Netbeans app from here https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html                         
 Step 2: Download this project from github.                                                                                                           
 Step 3: At the top of the page in the NetBeans application, click on Open a project and choose the project you downloaded from github (Note project should be unzipped.
