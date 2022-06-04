@@ -14,7 +14,7 @@ Java, Multithreading, I/O Stream, Database, Exception, GUI.
 
 ## Screenshots
 - Home Page 
-<img width="203" alt="image" src="https://user-images.githubusercontent.com/58330569/172013757-4ac9df63-0957-4249-a654-232e9df0e05b.png">
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/58330569/172014093-86c1a8b0-da5d-44ed-ba6e-7a3114bfcf0c.png">
 
 - Login Page  
 <img width="228" alt="image" src="https://user-images.githubusercontent.com/58330569/172014009-2b489d03-29b6-49fd-b0fa-00f2262e2252.png">
