@@ -1,0 +1,6 @@
+Family, White, Range Rover, 300, 2
+Family, Gold, Toyota, 250, 2
+Sport, Green, Mercedes, 400, 2
+Sport, White, Audi, 400, 2
+Sedan, Red, Kia, 200, 2
+Sedan, White, Nissan, 200, 2
